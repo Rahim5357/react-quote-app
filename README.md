@@ -12,7 +12,7 @@ Before you begin, ensure you have the following installed on your system:
 
 1. Clone the repository to your local machine:
    ```
-   git clone https://github.com/yourusername/react-quote-app.git
+   git clone https://github.com/Rahim5357/react-quote-app.git
    ```
 
 2. Navigate to the project directory:
